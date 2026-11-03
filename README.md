@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Isabella
-- 👀 I’m interested in everyting business analytics and data science
-- 🌱 I’m currently learning even more about Reinforcement Learning and delving into LLMs
+- 👀 I’m interested in everything AI, data science, and business analytics
 - 😄 Pronouns: she/her
 
 <!---
